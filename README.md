@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning **Flutter and Python.**
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+- 👨‍💻 All of my projects are available at [Github](Github).
 
-- 📝My personal blog [https://rrr-coder.blogspot.com/](https://rrr-coder.blogspot.com/)
+- 📝My personal blog [https://rrr-coder.blogspot.com/](https://rrr-coder.blogspot.com/).
 
-- 📄 Know about my resume [https://1drv.ms/b/s!Aj9BfxaFX7Y5jw_9DHcs2XvSnY9X?e=saKGQE](https://1drv.ms/b/s!Aj9BfxaFX7Y5jw_9DHcs2XvSnY9X?e=saKGQE)
+- 📄 Know about my resume [https://1drv.ms/b/s!Aj9BfxaFX7Y5jw_9DHcs2XvSnY9X?e=saKGQE](https://1drv.ms/b/s!Aj9BfxaFX7Y5jw_9DHcs2XvSnY9X?e=saKGQE).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rayhan mahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayhan mahmud" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/rayhan mahmud](https://www.linkedin.com/in/rayhan-mahmud-683376223/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayhan mahmud" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
