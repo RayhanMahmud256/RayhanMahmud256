@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently a fresh Graduate, **Searching internship for app development.**
 
-- 🌱 I’m currently learning, **Flutter and Python.**
+- 🌱 I’m currently learning **Flutter and Python.**
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
